@@ -68,7 +68,7 @@ function setVisibility(id) {
             
 function writeBanner()
 {document.write("<table class='header'><tr border='0'>")
-document.write("<td border='0' width='200'><img src='img/me.jpg' border='0'/></td>")
+document.write("<td border='0' width='200'><img src='img/me.png' border='0'/></td>")
 document.write("<td style='text-align: justify; border-style: none;' >")
 document.write("<font style='font-weight:500;font-size:22pt'>Jingjin Yu</font><br>")
 
@@ -77,7 +77,7 @@ document.write("<br>")
 document.write("Email: jingjin.yu<img src='img/a.png' border='0' align='top'/>cs.rutgers.edu<br>Office: 307 One Spring St, New Brunswick<br>")
 
 document.write("</td>")
-document.write("<td border='0' width='100'><img src='img/arc-s.png' border='0'/></td></tr></table>")
+document.write("<td border='0' width='100'></td></tr></table>")
 
 }
 
