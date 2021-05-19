@@ -71,7 +71,7 @@ function writeBanner()
 document.write("<td border='0' width='200'><img src='img/me.png' border='0'/></td>")
 document.write("<td border='0' width='300'></td>")
 document.write("<td style='text-align: justify; border-style: none;' >")
-document.write("<font style='font-weight:500;font-size:22pt'>Jingjin Yu</font><br><br><br><br>")
+document.write("<font style='font-weight:500;font-size:22pt'>余京津 | Jingjin Yu</font><br><br><br><br>")
 
 document.write("<br>Associate Professor<br>Department of Computer Science<br>Rutgers University at New Brunswick")
 document.write("<br>")
