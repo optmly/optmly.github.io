@@ -1,5 +1,9 @@
 # 100 Prisoners, Cycle Following, and Rearrangement on Lattices 
 
+## 100 Prisoners Problem 
+One hundred prisoners are about to be executed the next day. Their guards, feeling sorry for them
+or just being playful, offer a way out with a seemingly impossible challenge: 
+
 ## Jingjin Yu ([arxiv preprint](https://arxiv.org/abs/2105.05366), R:SS 2021)
 
 This is the Python codebase that accompanies the above paper, where algorithms are developed for optimally solving rearrangement tasks where items are stored in lattices. In the most basic setup, **LOR** (**L**abeled **O**ne-dimensional **R**earrangement), the items are stored in a line at integer locations, out of order, and must be sorted, for example:
