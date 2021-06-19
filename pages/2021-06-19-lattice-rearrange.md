@@ -13,6 +13,13 @@ the prisoner comes in. The prisoners may devise a strategy but may not communica
 room. They will only be set free if all prisoners can correctly find their numbers. What are their 
 chances? 
 
+Now, if you would like to think about the problem a bit more, you should stop reading. The answer to 
+the 100 prinsoners will not be revealed here (you can find it readily via a google search), but an 
+important clue will be.
+
+## Cycle Following 
+
+Given {% raw %}$n${% endraw %}
 
 
 ## Jingjin Yu ([arxiv preprint](https://arxiv.org/abs/2105.05366), R:SS 2021)
