@@ -1,3 +1,6 @@
 theme: jekyll-theme-modernist
 title: 余京津 | Jingjin Yu
 description: 
+
+github:
+is_project_page: false
