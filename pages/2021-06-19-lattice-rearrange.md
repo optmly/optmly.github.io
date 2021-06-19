@@ -19,10 +19,9 @@ important clue will be.
 
 ## Cycle Following 
 
-Given {% raw %}$n${% endraw %} numbers $1, \ldots, n$, 
-
-$n$
-
+Let us place $n$ numbers $1, \ldots, n$, in a row, from left to write, with a random ordering. We may 
+represent this random ordering as a permtuation $\pi$, e.g., $\pi(1)$ is the number at the left most,
+$\pi(2)$ is the number just to the right of $\pi(1)$, and so on. 
 
 
 ## Jingjin Yu ([arxiv preprint](https://arxiv.org/abs/2105.05366), R:SS 2021)
