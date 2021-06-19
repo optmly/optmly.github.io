@@ -1,8 +1,19 @@
 # 100 Prisoners, Cycle Following, and Rearrangement on Lattices 
 
-## 100 Prisoners Problem 
+## The 100 Prisoners Problem 
 One hundred prisoners are about to be executed the next day. Their guards, feeling sorry for them
-or just being playful, offer a way out with a seemingly impossible challenge: 
+or just being playful, offer them a way out with but they must win a seemingly impossible challenge. 
+Each prisoner is assigned a unique number between 1 and 100. In a windowless room, cards with 
+numbers 1 to 100 are randomly placed in 100 closed drawers labeled from 1 to 100, one in each drawer. 
+
+The 100 prisoners will be let into the room, one by one. A prisoner in the room is allowed to open 
+50 drawers and look at the number on the cards in these drawers, with the goal to find a card with 
+the number that matches their own. When a prisoner leaves, the room is reset to be identical before
+the prisoner comes in. The prisoners may devise a strategy but may not communicate after exiting the
+room. They will only be set free if all prisoners can correctly find their numbers. What are their 
+chances? 
+
+
 
 ## Jingjin Yu ([arxiv preprint](https://arxiv.org/abs/2105.05366), R:SS 2021)
 
