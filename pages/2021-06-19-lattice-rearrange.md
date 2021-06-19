@@ -19,7 +19,10 @@ important clue will be.
 
 ## Cycle Following 
 
-Given {% raw %}$n${% endraw %}
+Given {% raw %}$n${% endraw %} numbers $1, \ldots, n$, 
+
+$n$
+
 
 
 ## Jingjin Yu ([arxiv preprint](https://arxiv.org/abs/2105.05366), R:SS 2021)
