@@ -16,4 +16,4 @@ and [Petros G. Voulgaris](https://www.unr.edu/me/people/petros-voulgaris).
 I completed my undergraduate study at the University of Science and Technology of China (USTC).
 
 I am a recipient of the NSF CAREER Award and the Amazon Research Award in Robotics. 
-My Erd&odblac;s number [converged to its limit of 2](https://arxiv.org/abs/2002.04979) :)
+My Erd&#337;s number [converged to its limit of 2](https://arxiv.org/abs/2002.04979) :)
