@@ -1,4 +1,4 @@
-## Page Under Construction 
+## Under Construction - Check Back Soon!
 
 ### Short Bio
 
