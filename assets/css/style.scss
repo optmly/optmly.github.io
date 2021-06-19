@@ -4,6 +4,10 @@
 @import "{{ site.theme }}";
 #forkme_banner{ display: none !important; }
 
+h1 {
+  color: #d01010;
+}
+
 body {
   font-size: 11px;
   font-weight: 500;
