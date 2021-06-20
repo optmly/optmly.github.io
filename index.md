@@ -1,8 +1,8 @@
-## Bits and Pieces 
+### Bits and Pieces 
 
-### [100 Prisoners, Cycle Following, and Rearrangement on Lattices](/pages/2021-06-19-lattice-rearrange.md)
+#### [100 Prisoners, Cycle Following, and Rearrangement on Lattices](/pages/2021-06-19-lattice-rearrange.md)
 
-## Short Bio
+### Short Bio
 
 I am an Associate Professor in the Department of Computer Science at Rutgers University 
 at New Brunswick. 
