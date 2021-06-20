@@ -36,8 +36,8 @@ The cycle-following procedure sketched above also applies to solving robotic rea
 lattices, as we have examined in some detail in the work
 
 ```
-Rearrangement on Lattices with Pick-n-Swaps: Optimality Structures and Efficient Algorithms
-Jingjin Yu ([arxiv preprint](https://arxiv.org/abs/2105.05366), R:SS 2021)
+Rearrangement on Lattices with Pick-n-Swaps: Optimality Structures and 
+Efficient Algorithms. Jingjin Yu. R:SS 2021. 
 ```
 
 In the most basic setup, **LOR** (**L**abeled **O**ne-dimensional **R**earrangement), the items are stored 
