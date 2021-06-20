@@ -1,5 +1,3 @@
-## Under Construction - Check Back Soon!
-
 ### Short Bio
 
 I am an Associate Professor in the Department of Computer Science at Rutgers University 
