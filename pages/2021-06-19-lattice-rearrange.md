@@ -1,6 +1,6 @@
-# 100 Prisoners, Cycle Following, and Rearrangement on Lattices 
+## 100 Prisoners, Cycle Following, and Rearrangement on Lattices 
 
-## The 100 Prisoners Problem 
+### The 100 Prisoners Problem 
 One hundred prisoners are about to be executed the next day. Their guards, feeling sorry for them
 or just being playful, offer them a way out but they must win a seemingly impossible challenge. 
 Each prisoner is assigned a unique number between 1 and 100. In a windowless room, cards with 
@@ -17,7 +17,7 @@ Now, if you would like to think about the problem a bit more, you should stop re
 the 100 prinsoners problems will not be revealed here (you can find it readily via a google search), 
 but an important clue will be.
 
-## Cycle Following 
+### Cycle Following 
 
 Let us place $n$ numbers $1, \ldots, n$, in a row, from left to right, with a random ordering. We may 
 represent this random ordering as a permtuation $\pi$, e.g., $\pi(1)$ is the number at the left most,
@@ -30,7 +30,7 @@ randomly shuffled, there are about $\log n$ such cycles, which means that each c
 $n/\log n$. This fact turns out to be the key for the 100 prisoners to have a decent chance of 
 survival. 
 
-## Rearrangement on Lattices
+### Rearrangement on Lattices
 
 The cycle-following procedure sketched above also applies to solving robotic rearrangement problems on 
 lattices, as we have examined in some detail in the work
