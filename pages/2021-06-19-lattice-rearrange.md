@@ -31,7 +31,8 @@ fact turns out to be the key for the 100 prisoners to have a decent chance of su
 
 ## Rearrangement on Lattices
 
-The cycle-following procedure sketched above also applies to solving rearrangement problems on lattices.
+The cycle-following procedure sketched above also applies to solving robotic rearrangement problems on 
+lattices. 
 In the most basic setup, **LOR** (**L**abeled **O**ne-dimensional **R**earrangement), the items are stored 
 in a line at integer locations, out of order, and must be sorted, for example:
 
@@ -39,16 +40,18 @@ in a line at integer locations, out of order, and must be sorted, for example:
 
 ## Jingjin Yu ([arxiv preprint](https://arxiv.org/abs/2105.05366), R:SS 2021)
 
-
-
-
-Here, it is assumed that the robot end-effector initially rests at the leftmost end. It can pick up objects, move around, and make object swaps. The goal is to minimize the time it takes to complete the rearrangement task, assuming that each pick-n-swap operation takes a fixed amount of time and the robot end-effector travel time is proportional to end-effector travel distance (as measured by some distance metric). We assume that the pick-n-swap operation is more costly, yielding a sequential optimization problem. A solution, when executed, looks like the following: 
+Here, it is assumed that the robot end-effector initially rests at the leftmost end. It can pick up objects, 
+move around, and make object swaps. The goal is to minimize the time it takes to complete the rearrangement 
+task, assuming that each pick-n-swap operation takes a fixed amount of time and the robot end-effector travel 
+time is proportional to end-effector travel distance (as measured by some distance metric). We assume that 
+the pick-n-swap operation is more costly, yielding a sequential optimization problem. A solution, when 
+executed, looks like the following: 
 
  <video src="https://user-images.githubusercontent.com/23622170/120925809-518e0780-c6a8-11eb-9931-5f97f4c119ca.mp4" data-canonical-src="https://user-images.githubusercontent.com/23622170/120925809-518e0780-c6a8-11eb-9931-5f97f4c119ca.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 </video>
 
 
-Including LOR, this codebase contains greedy and optimized implementations of algorithms described in the paper for solving four problems. For the one-dimensional setting, partially-labeled setting is also supported; we call this the **POR** (**P**artially-labeled **O**ne-dimensional **R**earrangement) problem. In a partially-labeled problem, items of the same type/color are interchangeable. An example POR instance is as follows: 
+For one dimension, partially-labeled setting is also interesting; we call this the **POR** (**P**artially-labeled **O**ne-dimensional **R**earrangement) problem. In a partially-labeled problem, items of the same type/color are interchangeable. An example POR instance is as follows: 
 
 ![por](https://user-images.githubusercontent.com/23622170/120927745-f2cc8c00-c6af-11eb-8a20-a74d3e217e80.png)
 
