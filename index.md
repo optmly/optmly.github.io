@@ -1,6 +1,6 @@
 ### Bits and Pieces 
 
-#### 21-06-19 [100 Prisoners, Cycle Following, and Rearrangement on Lattices](/pages/2021-06-19-lattice-rearrange.md)
+#### 21-06-19 - [100 Prisoners, Cycle Following, and Rearrangement on Lattices](/pages/2021-06-19-lattice-rearrange.md)
 
 ### Short Bio
 
