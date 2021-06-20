@@ -72,6 +72,7 @@ Two-dimensional versions of LOR and POR, named **LTR** and **PTR** can be posed 
 <video width="600" src="https://user-images.githubusercontent.com/23622170/120928336-4213bc00-c6b2-11eb-8f30-cc0ef23b4981.mp4" data-canonical-src="https://user-images.githubusercontent.com/23622170/120928336-4213bc00-c6b2-11eb-8f30-cc0ef23b4981.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 </video>
 
-Interested in the problem? You can find a bit more detail in the video below and if you want the full detail, read the [paper](https://arxiv.org/abs/2105.05366). 
+Interested in the problem? You can find a bit more detail in the video below and if you want the full detail, you may read the [paper](https://arxiv.org/abs/2105.05366). Let us know if you have questions! 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LcI-Es5w5HI/0.jpg)](https://youtu.be/LcI-Es5w5HI)
+<video width="600" src="https://user-images.githubusercontent.com/35314983/122662057-1a1a6300-d15e-11eb-8df6-880906a93845.mp4" data-canonical-src="https://user-images.githubusercontent.com/35314983/122662057-1a1a6300-d15e-11eb-8df6-880906a93845.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+</video>
