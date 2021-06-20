@@ -21,19 +21,31 @@ important clue will be.
 
 Let us place $n$ numbers $1, \ldots, n$, in a row, from left to write, with a random ordering. We may 
 represent this random ordering as a permtuation $\pi$, e.g., $\pi(1)$ is the number at the left most,
-$\pi(2)$ is the number just to the right of $\pi(1)$, and so on. 
+$\pi(2)$ is the number just to the right of $\pi(1)$, and so on. Suppose these numbers are written on 
+cards that are facing down. We can find the card with number $1$ on it by doing the following. We 
+check the left most card, which has number $\pi(1)$. If $\pi(1) = 1$, we are done; otherwise, we check
+card $\pi(1)$ from left. What will happen as we keep doing this? We must find the card with $1$ written
+on it. This yields a _cycle_ containing $1$ and possibly more numbers. For $n$ numbers that are randomly 
+shuffled, there are about $\log n$ such cycles, which means that each cycle is of size $n/\log n$. This
+fact turns out to be the key for the 100 prisoners to have a decent chance of survival. 
 
+## Rearrangement on Lattices
+
+The cycle-following procedure sketched above also applies to solving rearrangement problems on lattices.
+In the most basic setup, **LOR** (**L**abeled **O**ne-dimensional **R**earrangement), the items are stored 
+in a line at integer locations, out of order, and must be sorted, for example:
+
+![lor](https://user-images.githubusercontent.com/23622170/120925830-6ec2d600-c6a8-11eb-922a-9e461c318255.png)
 
 ## Jingjin Yu ([arxiv preprint](https://arxiv.org/abs/2105.05366), R:SS 2021)
 
-This is the Python codebase that accompanies the above paper, where algorithms are developed for optimally solving rearrangement tasks where items are stored in lattices. In the most basic setup, **LOR** (**L**abeled **O**ne-dimensional **R**earrangement), the items are stored in a line at integer locations, out of order, and must be sorted, for example:
 
-![lor](https://user-images.githubusercontent.com/23622170/120925830-6ec2d600-c6a8-11eb-922a-9e461c318255.png)
 
 
 Here, it is assumed that the robot end-effector initially rests at the leftmost end. It can pick up objects, move around, and make object swaps. The goal is to minimize the time it takes to complete the rearrangement task, assuming that each pick-n-swap operation takes a fixed amount of time and the robot end-effector travel time is proportional to end-effector travel distance (as measured by some distance metric). We assume that the pick-n-swap operation is more costly, yielding a sequential optimization problem. A solution, when executed, looks like the following: 
 
-https://user-images.githubusercontent.com/23622170/120925809-518e0780-c6a8-11eb-9931-5f97f4c119ca.mp4
+ <video src="https://user-images.githubusercontent.com/23622170/120925809-518e0780-c6a8-11eb-9931-5f97f4c119ca.mp4" data-canonical-src="https://user-images.githubusercontent.com/23622170/120925809-518e0780-c6a8-11eb-9931-5f97f4c119ca.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+</video>
 
 
 Including LOR, this codebase contains greedy and optimized implementations of algorithms described in the paper for solving four problems. For the one-dimensional setting, partially-labeled setting is also supported; we call this the **POR** (**P**artially-labeled **O**ne-dimensional **R**earrangement) problem. In a partially-labeled problem, items of the same type/color are interchangeable. An example POR instance is as follows: 
@@ -42,12 +54,13 @@ Including LOR, this codebase contains greedy and optimized implementations of al
 
 An animated solution for POR looks like:
 
-https://user-images.githubusercontent.com/23622170/120927857-55be2300-c6b0-11eb-99ad-65a574035edf.mp4
-
+<video src="https://user-images.githubusercontent.com/23622170/120927857-55be2300-c6b0-11eb-99ad-65a574035edf.mp4" data-canonical-src="https://user-images.githubusercontent.com/23622170/120927857-55be2300-c6b0-11eb-99ad-65a574035edf.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+</video>
+  
 The rest two of the four problems are two-dimensional versions of LOR and POR, whare are named as **LTR** and **PTR**. Animated solutions, which also demonstrate the problem setup, are given below. 
 
-https://user-images.githubusercontent.com/23622170/120928336-4213bc00-c6b2-11eb-8f30-cc0ef23b4981.mp4
-
+<video src="https://user-images.githubusercontent.com/23622170/120928336-4213bc00-c6b2-11eb-8f30-cc0ef23b4981.mp4" data-canonical-src="https://user-images.githubusercontent.com/23622170/120928336-4213bc00-c6b2-11eb-8f30-cc0ef23b4981.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+</video>
 
 
 ## Dependencies
