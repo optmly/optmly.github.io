@@ -4,7 +4,7 @@
 
 ### Short Bio
 
-I am an Associate Professor in the Department of Computer Science at Rutgers University 
+I am an Assistant Professor in the Department of Computer Science at Rutgers University 
 at New Brunswick. 
 I obtained my Ph.D. in Electrical and Computer Engineering at the University of Illinois
 working with [Steven M. LaValle](http://lavalle.pl/).
