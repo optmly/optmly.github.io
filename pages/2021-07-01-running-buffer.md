@@ -1,4 +1,4 @@
-##On Minimizing the Number of Running Buffers for Tabletop Rearrangement
+## On Minimizing the Number of Running Buffers for Tabletop Rearrangement
 
 In nearly all aspects of our everyday lives, be it work related, at home, or for 
 play, objects are to be grasped and rearranged, e.g., tidying up a messy desk, 
