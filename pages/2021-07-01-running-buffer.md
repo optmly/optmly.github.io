@@ -81,6 +81,5 @@ https://user-images.githubusercontent.com/35314983/124187934-89f8e980-da8c-11eb-
 
 For more information, check out the [presentation](https://youtu.be/hbD-cumF_H4) and the [paper](http://www.roboticsproceedings.org/rss17/p033.pdf). 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hbD-cumF_H4/0.jpg)](https://www.youtube.com/watch?v=hbD-cumF_H4)
-
+[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/35314983/124190286-fd502a80-da8f-11eb-8f72-90366156f77f.png)](https://www.youtube.com/watch?v=hbD-cumF_H4)
 
