@@ -75,5 +75,15 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+    
+    {% if is_blog_page %}
+    <script src="https://utteranc.es/client.js"
+        repo="[ENTER REPO HERE]"
+        issue-term="url"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+    </script>
+    {% endif %}
   </body>
 </html>
