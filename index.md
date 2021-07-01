@@ -1,5 +1,7 @@
 ### Bits and Pieces 
 
+#### \[21-07-01\] [On Minimizing the Number of Running Buffers for Pick-n-Place Based Tabletop Rearrangement Tasks](/pages/2021-07-01-running-buffer.md)
+
 #### \[21-06-19\] [100 Prisoners, Cycle Following, and Rearrangement on Lattices](/pages/2021-06-19-lattice-rearrange.md)
 
 ### Short Bio
