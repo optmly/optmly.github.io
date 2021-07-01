@@ -75,7 +75,8 @@ have developed multiple highly effective and optimal algorithms for computing
 programming* routine that readily scales to instances with over a hundred objects for 
 the labeled setting, and a priority queue-based modification of a dynamic programming 
 algorithm for the unlabeled setting. This allows us to quickly compute high-quality 
-plans for solving highly constrained rearrangement problems like the follwoing. 
+plans for solving highly constrained rearrangement problems like the follwoing, where
+only two external buffers are needed. 
 
 <video width="600" src="https://user-images.githubusercontent.com/35314983/124187934-89f8e980-da8c-11eb-8e48-930681b38f0b.mp4" data-canonical-src="https://user-images.githubusercontent.com/35314983/124187934-89f8e980-da8c-11eb-8e48-930681b38f0b.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 </video>
