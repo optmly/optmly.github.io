@@ -47,8 +47,8 @@ This aspect of the tabletop rearrangement problem is studied by
 a few years back. 
 
 Here, we are interested in a related optimization objective. Instead of the 
-**total number** of buffers, what about the minimum number of buffers that are 
-currently being used? That is, how many **running buffers** are needed to solve 
+**total number** of buffers, what about the **minimum number of buffers that are 
+currently being used**? That is, how many **running buffers** are needed to solve 
 a given tabletop rearrangement problem? This is an important question to ask, 
 because the number of running buffers is more relevant than the number of 
 total buffers in deciding the feasibility of solving a given problem. That is, 
