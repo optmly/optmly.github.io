@@ -1,12 +1,3 @@
-```js script
-<script src="https://utteranc.es/client.js"
-        repo="optmly/optmly.github.io"
-        issue-term="url"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
-</script>
-```
 ## 100 Prisoners, Cycle Following, and Rearrangement on Lattices 
 
 ### The 100 Prisoners Problem 
