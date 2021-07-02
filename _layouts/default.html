@@ -58,7 +58,7 @@
       </section>
     </div>
     <footer>
-    {% if blog_page %}
+    {% if '/pages/' in request.get_full_path %}
       <script src="https://utteranc.es/client.js"
         repo="optmly/optmly.github.io"
         issue-term="url"
