@@ -76,6 +76,7 @@
       </script>
     {% endif %}
     
+    {% if window.location.href.includes("/pages/") %}
     <script src="https://utteranc.es/client.js"
         repo="optmly/optmly.github.io"
         issue-term="url"
@@ -83,5 +84,6 @@
         crossorigin="anonymous"
         async>
     </script>
+    {% endif %}
   </body>
 </html>
