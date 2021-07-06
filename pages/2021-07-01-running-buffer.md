@@ -78,7 +78,7 @@ algorithm for the unlabeled setting. This allows us to quickly compute high-qual
 plans for solving highly constrained rearrangement problems like the follwoing, where
 only two external buffers are needed. 
 
-<video width="600" src="https://user-images.githubusercontent.com/35314983/124187934-89f8e980-da8c-11eb-8e48-930681b38f0b.mp4" data-canonical-src="https://user-images.githubusercontent.com/35314983/124187934-89f8e980-da8c-11eb-8e48-930681b38f0b.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+<video width="100%" src="https://user-images.githubusercontent.com/35314983/124187934-89f8e980-da8c-11eb-8e48-930681b38f0b.mp4" data-canonical-src="https://user-images.githubusercontent.com/35314983/124187934-89f8e980-da8c-11eb-8e48-930681b38f0b.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 </video>
 
 For more information, check out the [presentation](https://youtu.be/hbD-cumF_H4) and the [paper](http://www.roboticsproceedings.org/rss17/p033.pdf). 
