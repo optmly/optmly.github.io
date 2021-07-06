@@ -54,7 +54,7 @@ time is proportional to end-effector travel distance (as measured by some distan
 the pick-n-swap operation is more costly, yielding a sequential optimization problem. A solution, when 
 executed, looks like the following: 
 
- <video width="600" src="https://user-images.githubusercontent.com/23622170/120925809-518e0780-c6a8-11eb-9931-5f97f4c119ca.mp4" data-canonical-src="https://user-images.githubusercontent.com/23622170/120925809-518e0780-c6a8-11eb-9931-5f97f4c119ca.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+ <video width="100%" src="https://user-images.githubusercontent.com/23622170/120925809-518e0780-c6a8-11eb-9931-5f97f4c119ca.mp4" data-canonical-src="https://user-images.githubusercontent.com/23622170/120925809-518e0780-c6a8-11eb-9931-5f97f4c119ca.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 </video>
 
 
@@ -64,15 +64,15 @@ For one dimension, partially-labeled setting is also interesting; we call this t
 
 An animated solution for POR looks like:
 
-<video width="600" src="https://user-images.githubusercontent.com/23622170/120927857-55be2300-c6b0-11eb-99ad-65a574035edf.mp4" data-canonical-src="https://user-images.githubusercontent.com/23622170/120927857-55be2300-c6b0-11eb-99ad-65a574035edf.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+<video width="100%" src="https://user-images.githubusercontent.com/23622170/120927857-55be2300-c6b0-11eb-99ad-65a574035edf.mp4" data-canonical-src="https://user-images.githubusercontent.com/23622170/120927857-55be2300-c6b0-11eb-99ad-65a574035edf.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 </video>
   
 Two-dimensional versions of LOR and POR, named **LTR** and **PTR** can be posed as well. Animated solutions, which also demonstrate the problem setup, are given below. 
 
-<video width="600" src="https://user-images.githubusercontent.com/23622170/120928336-4213bc00-c6b2-11eb-8f30-cc0ef23b4981.mp4" data-canonical-src="https://user-images.githubusercontent.com/23622170/120928336-4213bc00-c6b2-11eb-8f30-cc0ef23b4981.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+<video width="100%" src="https://user-images.githubusercontent.com/23622170/120928336-4213bc00-c6b2-11eb-8f30-cc0ef23b4981.mp4" data-canonical-src="https://user-images.githubusercontent.com/23622170/120928336-4213bc00-c6b2-11eb-8f30-cc0ef23b4981.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 </video>
 
 Interested in the problem? You can find a bit more detail in the video below and if you want the full detail, you may read the [paper](https://arxiv.org/abs/2105.05366). Let us know if you have questions! 
 
-<video width="600" src="https://user-images.githubusercontent.com/35314983/122662057-1a1a6300-d15e-11eb-8df6-880906a93845.mp4" data-canonical-src="https://user-images.githubusercontent.com/35314983/122662057-1a1a6300-d15e-11eb-8df6-880906a93845.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+<video width="100%" src="https://user-images.githubusercontent.com/35314983/122662057-1a1a6300-d15e-11eb-8df6-880906a93845.mp4" data-canonical-src="https://user-images.githubusercontent.com/35314983/122662057-1a1a6300-d15e-11eb-8df6-880906a93845.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 </video>
