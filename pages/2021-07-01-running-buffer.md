@@ -83,5 +83,9 @@ only two external buffers are needed.
 
 For more information, check out the [presentation](https://youtu.be/hbD-cumF_H4) and the [paper](http://www.roboticsproceedings.org/rss17/p033.pdf). 
 
-[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/35314983/124190286-fd502a80-da8f-11eb-8f72-90366156f77f.png)](https://www.youtube.com/watch?v=hbD-cumF_H4)
+<center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen="" src="https://www.youtube.com/embed/hbD-cumF_H4"></iframe>
+  </div>
+</center>
 
