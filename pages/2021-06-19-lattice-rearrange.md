@@ -74,5 +74,8 @@ Two-dimensional versions of LOR and POR, named **LTR** and **PTR** can be posed 
 
 Interested in the problem? You can find a bit more detail in the video below and if you want the full detail, you may read the [paper](https://arxiv.org/abs/2105.05366). Let us know if you have questions! 
 
-<video width="100%" src="https://user-images.githubusercontent.com/35314983/122662057-1a1a6300-d15e-11eb-8df6-880906a93845.mp4" data-canonical-src="https://user-images.githubusercontent.com/35314983/122662057-1a1a6300-d15e-11eb-8df6-880906a93845.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
-</video>
+<center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen="" src="https://www.youtube.com/embed/hbD-cumF_H4"></iframe>
+  </div>
+</center>
