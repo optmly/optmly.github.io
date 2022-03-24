@@ -1,3 +1,5 @@
+For the website of my lab at Rutgers, go to [arc-l.github.io](arc-l.github.io)
+
 ### Bits and Pieces 
 
 #### \[21-07-01\] [On Minimizing the Number of Running Buffers for Pick-n-Place Based Tabletop Rearrangement Tasks](/pages/2021-07-01-running-buffer.md)
