@@ -1,4 +1,4 @@
-For the website of my lab at Rutgers, go to **[arc-l.github.io](arc-l.github.io)**
+For the website of my lab at Rutgers, go to **[https://arc-l.github.io](arc-l.github.io)**
 
 ### Bits and Pieces 
 
