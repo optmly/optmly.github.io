@@ -2,9 +2,16 @@ For the website of my lab at Rutgers, go to **[arc-l.github.io](https://arc-l.gi
 
 ### Bits and Pieces 
 
+#### \[22-05-15\] A while back, I wrote a puzzle app on Android, [pebbles](https://play.google.com/store/apps/details?id=edu.rutgers.cs.arc.pebbles)
+
+https://user-images.githubusercontent.com/35314983/168460426-a1bf69b8-b416-4d01-aec4-572e6e0ed94b.mp4
+
+I had intended to port it to iOS, but have been occupied by other things...
+
 #### \[21-07-01\] [On Minimizing the Number of Running Buffers for Pick-n-Place Based Tabletop Rearrangement Tasks](/pages/2021-07-01-running-buffer.md)
 
 #### \[21-06-19\] [100 Prisoners, Cycle Following, and Rearrangement on Lattices](/pages/2021-06-19-lattice-rearrange.md)
+
 
 ### Short Bio
 
