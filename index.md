@@ -1,8 +1,9 @@
+<div style="text-align: right">
+  <a id="links" href="/blogs.html">Bits & Pieces</a>&nbsp;
+</div>
 
 
-### Bits and 
-
-#### \[22-05-15\] 
+#### 2024-07-11
 
 During the heat of the COVID-19 pandemic days, I learned flutter/dart and wrote an app related to some of my research interests in multi-robot path planning. The video below explains what it is.  
 
